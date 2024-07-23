@@ -1,0 +1,7 @@
+nltk
+docopt
+tqdm
+numpy
+scipy
+torch
+torchvision
